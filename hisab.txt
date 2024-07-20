@@ -1,1 +1,2 @@
 17 tarikh hisab = 1200
+20 ka hisab = 1000
